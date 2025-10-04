@@ -1,0 +1,6 @@
+gym==0.26.2
+imageio==2.37.0
+matplotlib==3.0.0
+numpy==1.19.5
+pygame==2.1.0
+scikit_learn==1.7.2

@@ -1,0 +1,3 @@
+Run python MountainCarTAMER.py and have tame=False to run vanilla Q learning, a gif of tha agent is also saved 
+
+To run with human feedback, set tame=True
