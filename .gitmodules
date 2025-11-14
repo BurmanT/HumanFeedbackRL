@@ -1,0 +1,6 @@
+[submodule "TAMER"]
+	path = TAMER
+	url = git@github.com:BurmanT/TAMER.git
+[submodule "APReL"]
+	path = APReL
+	url = git@github.com:BurmanT/APReL.git
