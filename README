@@ -1,3 +1,6 @@
-Run python MountainCarTAMER.py and have tame=False to run vanilla Q learning, a gif of tha agent is also saved 
+# Running 
+This implements human feedback from APReL and TAMER
 
-To run with human feedback, set tame=True
+# APReL 
+
+# TAMER
