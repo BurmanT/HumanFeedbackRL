@@ -4,6 +4,6 @@
 [submodule "APReL"]
 	path = APReL
 	url = git@github.com:BurmanT/APReL.git
-[submodule "hindsigh-experience-replay"]
-	path = hindsigh-experience-replay
+[submodule "hindsight-experience-replay"]
+	path = hindsight-experience-replay
 	url = git@github.com:BurmanT/hindsight-experience-replay.git
