@@ -7,3 +7,6 @@
 [submodule "hindsight-experience-replay"]
 	path = hindsight-experience-replay
 	url = git@github.com:BurmanT/hindsight-experience-replay.git
+[submodule "BehaviorCloning"]
+	path = BehaviorCloning
+	url = git@github.com:BurmanT/BehaviorCloning.git
